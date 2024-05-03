@@ -1,4 +1,4 @@
-#  # Proyecto Compiladores
+#   Proyecto Compiladores
 
 Este proyecto es un compilador para el lenguaje MiniC, desarrollado en C utilizando las herramientas Bison y Flex.
 
